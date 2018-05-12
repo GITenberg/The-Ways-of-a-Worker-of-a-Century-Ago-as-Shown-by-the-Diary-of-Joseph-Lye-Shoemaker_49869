@@ -1,10 +1,16 @@
 _repo: The-Ways-of-a-Worker-of-a-Century-Ago-as-Shown-by-the-Diary-of-Joseph-Lye-Shoemaker_49869
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49869-h/images/cover.jpg
 creator:
   author:
     agent_name: Gannon, Fred
     gutenberg_agent_id: '45584'
     url: http://www.gutenberg.org/2009/agents/45584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49869#The-Ways-of-a-Worker-of-a-Century-Ago-as-Shown-by-the-Diary-of-Joseph-Lye-Shoemaker
 gutenberg_issued: '2015-09-03'
 gutenberg_type: Text
 identifiers:
